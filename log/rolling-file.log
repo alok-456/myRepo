@@ -1,0 +1,42 @@
+00:06:12.810 [main] INFO  com.javahonk.MainApplication - EventBus Spring application starting...
+00:06:13.195 [main] ERROR com.javahonk.subscriber.DeadEventProcessor - DEADEVENT DETECTED:class java.lang.String
+00:17:17.484 [main] INFO  com.javahonk.MainApplication - EventBus Spring application starting...
+00:17:17.900 [main] ERROR com.javahonk.subscriber.DeadEventProcessor - DEADEVENT DETECTED:class java.lang.String
+00:34:24.538 [main] INFO  com.javahonk.MainApplication - EventBus Spring application starting...
+00:34:24.928 [main] INFO  com.javahonk.eventbusprocessor.EventBusSubscriberProcessor - Bean deadEventProcessor containing method processDeadEvent was subscribed to EventBus.
+00:34:24.928 [main] INFO  com.javahonk.eventbusprocessor.EventBusSubscriberProcessor - Bean subscriber1 containing method getPublishData was subscribed to EventBus.
+00:34:24.928 [main] INFO  com.javahonk.eventbusprocessor.EventBusSubscriberProcessor - Bean subscriber2 containing method getPublishData was subscribed to EventBus.
+00:34:24.944 [main] ERROR com.javahonk.subscriber.DeadEventProcessor - DEADEVENT DETECTED:class java.lang.String
+00:57:05.479 [main] INFO  com.javahonk.MainApplication - EventBus Spring application starting...
+00:57:05.869 [main] INFO  com.javahonk.eventbusprocessor.EventBusSubscriberProcessorShorten - Bean deadEventProcessor has been subscribed to the EventBus.
+00:57:05.871 [main] INFO  com.javahonk.eventbusprocessor.EventBusSubscriberProcessorShorten - Bean subscriber1 has been subscribed to the EventBus.
+00:57:05.874 [main] INFO  com.javahonk.eventbusprocessor.EventBusSubscriberProcessorShorten - Bean subscriber2 has been subscribed to the EventBus.
+00:57:05.876 [main] ERROR com.javahonk.subscriber.DeadEventProcessor - DEADEVENT DETECTED:class java.lang.String
+01:02:52.639 [main] INFO  com.javahonk.MainApplication - EventBus Spring application starting...
+01:02:53.006 [main] INFO  com.javahonk.eventbusprocessor.EventBusSubscriberProcessor - Bean deadEventProcessor method processDeadEvent has been subscribed to the EventBus.
+01:02:53.009 [main] INFO  com.javahonk.eventbusprocessor.EventBusSubscriberProcessor - Bean subscriber1 method getPublishData has been subscribed to the EventBus.
+01:02:53.009 [main] INFO  com.javahonk.eventbusprocessor.EventBusSubscriberProcessor - Bean subscriber2 method getPublishData has been subscribed to the EventBus.
+01:02:53.014 [main] ERROR com.javahonk.subscriber.DeadEventProcessor - DEADEVENT DETECTED:class java.lang.String
+01:11:00.311 [main] INFO  com.javahonk.MainApplication - EventBus Spring application starting...
+01:11:00.689 [main] ERROR com.javahonk.subscriber.DeadEventProcessor - DEADEVENT DETECTED:class java.lang.String
+01:14:00.589 [main] INFO  com.javahonk.MainApplication - EventBus Spring application starting...
+01:14:00.974 [main] INFO  com.javahonk.eventbusprocessor.EventBusSubscriberProcessor - Bean deadEventProcessor method {} has been subscribed to the EventBus.
+01:14:00.977 [main] INFO  com.javahonk.eventbusprocessor.EventBusSubscriberProcessor - Bean subscriber1 method {} has been subscribed to the EventBus.
+01:14:00.977 [main] INFO  com.javahonk.eventbusprocessor.EventBusSubscriberProcessor - Bean subscriber2 method {} has been subscribed to the EventBus.
+01:14:00.982 [main] ERROR com.javahonk.subscriber.DeadEventProcessor - DEADEVENT DETECTED:class java.lang.String
+01:15:33.851 [main] INFO  com.javahonk.MainApplication - EventBus Spring application starting...
+01:15:34.223 [main] INFO  com.javahonk.eventbusprocessor.EventBusSubscriberProcessor - Bean deadEventProcessor method {} has been subscribed to the EventBus.
+01:15:34.226 [main] INFO  com.javahonk.eventbusprocessor.EventBusSubscriberProcessor - Bean subscriber1 method {} has been subscribed to the EventBus.
+01:15:34.226 [main] INFO  com.javahonk.eventbusprocessor.EventBusSubscriberProcessor - Bean subscriber2 method {} has been subscribed to the EventBus.
+01:15:34.228 [main] ERROR com.javahonk.subscriber.DeadEventProcessor - DEADEVENT DETECTED:class java.lang.String
+01:16:32.116 [main] INFO  com.javahonk.MainApplication - EventBus Spring application starting...
+01:16:32.486 [main] INFO  com.javahonk.eventbusprocessor.EventBusSubscriberProcessor - Bean deadEventProcessor method {} has been subscribed to the EventBus.
+01:16:32.489 [main] INFO  com.javahonk.eventbusprocessor.EventBusSubscriberProcessor - Bean subscriber1 method {} has been subscribed to the EventBus.
+01:16:32.489 [main] INFO  com.javahonk.eventbusprocessor.EventBusSubscriberProcessor - Bean subscriber2 method {} has been subscribed to the EventBus.
+01:16:32.491 [main] INFO  com.javahonk.eventbusprocessor.EventBusSubscriberProcessor - Bean subscriber3NotSingleton method {} has been subscribed to the EventBus.
+01:16:32.494 [main] ERROR com.javahonk.subscriber.DeadEventProcessor - DEADEVENT DETECTED:class java.lang.String
+01:19:36.392 [main] INFO  com.javahonk.MainApplication - EventBus Spring application starting...
+01:19:36.772 [main] INFO  com.javahonk.eventbusprocessor.EventBusSubscriberProcessor - Bean deadEventProcessor method {} has been subscribed to the EventBus.
+01:19:36.774 [main] INFO  com.javahonk.eventbusprocessor.EventBusSubscriberProcessor - Bean subscriber1 method {} has been subscribed to the EventBus.
+01:19:36.777 [main] INFO  com.javahonk.eventbusprocessor.EventBusSubscriberProcessor - Bean subscriber2 method {} has been subscribed to the EventBus.
+01:19:36.779 [main] ERROR com.javahonk.subscriber.DeadEventProcessor - DEADEVENT DETECTED:class java.lang.String
