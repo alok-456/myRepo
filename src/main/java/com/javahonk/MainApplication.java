@@ -26,7 +26,7 @@ public class MainApplication {
 		eventBus.post( new SendPostThourghClass ("This will go to subscribers"));
 		
 		((AbstractApplicationContext)applicationContext).close();	
-		System.out.print("update6");
+		System.out.print("update7");
 		//dfghyujik
 		//dfghyujik
 		//dfghyujik
