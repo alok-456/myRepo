@@ -28,5 +28,7 @@ public class MainApplication {
 		((AbstractApplicationContext)applicationContext).close();	
 		System.out.print("update6");
 		//dfghyujik
+		//dfghyujik
+		
 	}
 }
